@@ -1,0 +1,4 @@
+sui client call 
+  --package 0xb124abde0f097fd3ee5707b42960e6612b44913ec7f770211cf7023396fcfa95 \
+  --module counter 
+  --function create_counter 
